@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "hnlink",
-    "version": "0.1",
+    "version": "0.2",
 
     "description": "Allows keyboard navigation to Hacker News comments on Feedly",
 
