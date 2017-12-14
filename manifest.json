@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "hnlink",
+    "version": "0.1",
+
+    "description": "Allows keyboard navigation to Hacker News comments on Feedly",
+
+    "icons": {
+        "48": "icons/icon-48.png"
+    },
+
+    "content_scripts": [{
+        "matches": ["*://feedly.com/*"],
+        "js": ["hnlink.js"]
+    }]
+}
