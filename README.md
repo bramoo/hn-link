@@ -13,7 +13,7 @@ A WebExtension that allows keyboard navigation to Hacker News comments on Feedly
 
 #### Web
 
-1. Visit the [Add-on store](https://addons.mozilla.org)
+1. Visit the [Add-on store](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-link-for-feedly/)
 2. Click Add to Firefox
 
 ## Usage
